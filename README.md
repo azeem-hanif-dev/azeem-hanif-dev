@@ -12,7 +12,7 @@
 - 🧠 Strong background in **project architecture**, **UI/UX design**, and **performance optimization**
 - 🧑‍💼 Skilled in **agile development**, team collaboration, and sprint-based delivery
 - ✅ Proven ability to work both **independently** and **in teams**, under pressure
-- 🤖 Growing expertise in **AI-powered applications** using **Python**, **OpenAI API**, and **LangChain**
+- 🤖 Growing expertise in **AI-powered applications** using **Python**, **OpenAI API**, **LangChain**, **RAG** and **LLM** 
 - ⚡ Fun fact: I enjoy playing **Cricket** & **Snooker**
 
 ---
