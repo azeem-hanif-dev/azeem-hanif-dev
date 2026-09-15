@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Azeem
 
-**Full Stack Web Developer | Laravel, React, Next.js, Vue.js | Open to exciting opportunities**
+**Full Stack Web Developer | Laravel, React, Next.js, Vue.js | AI & Automation Enthusiast | Open to exciting opportunities**
 
 ---
 
@@ -12,7 +12,7 @@
 - 🧠 Strong background in **project architecture**, **UI/UX design**, and **performance optimization**
 - 🧑‍💼 Skilled in **agile development**, team collaboration, and sprint-based delivery
 - ✅ Proven ability to work both **independently** and **in teams**, under pressure
-- 🛠️ Currently exploring **Python** and advanced backend patterns
+- 🤖 Growing expertise in **AI-powered applications** using **Python**, **OpenAI API**, and **LangChain**
 - ⚡ Fun fact: I enjoy playing **Cricket** & **Snooker**
 
 ---
@@ -21,7 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azeem-28a352202/)
 
-📧 **Email**: azeemhanif327@gmail.com  
+📧 **Email**: azeemhanif327@gmail.com
 📍 **Location**: Lahore, Pakistan
 
 ---
@@ -75,6 +75,13 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+### 🤖 AI & Automation
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -94,4 +101,4 @@
 
 ---
 
-> Let’s build something amazing together!
+> Let's build something amazing together!
