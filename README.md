@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 🚀 4+ years of experience building scalable, secure, and modern web applications
+- 🚀 6+ years of experience building scalable, secure, and modern web applications
 - 💻 I specialize in **React.js, Next.js, Vue.js, Laravel, Node.js, Express.js**
 - 🔌 Experienced in **RESTful APIs**, **GraphQL**, and **payment gateways (PayPal, Stripe)**
 - 🧠 Strong background in **project architecture**, **UI/UX design**, and **performance optimization**
