@@ -21,7 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azeem-28a352202/)
 
-📧 **Email**: azeemhanif327@gmail.com
+📧 **Email**: dev.azeem.h@gmail.com
 📍 **Location**: Lahore, Pakistan
 
 ---
